@@ -58,11 +58,13 @@
 .about-blurp {
     padding-top: 200px;
     padding-bottom: 200px;
+    float:left;
 }
 
 .triangle-blurp {
     padding-top: 200px;
     padding-bottom: 200px
+    float: left;
 }
 
 .triangle-blurp > p {
