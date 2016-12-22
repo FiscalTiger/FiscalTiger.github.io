@@ -5,10 +5,12 @@
  *
  */
 
+@media screen and (max-width: 1018px)
 #about-personal {
     background-image: url("../img/about_personal.png");
 }
 
+@media screen and (max-width: 1018px)
 #about-triangle {
     background-image: url("../img/about_triangle.png");
 }
@@ -58,13 +60,11 @@
 .about-blurp {
     padding-top: 200px;
     padding-bottom: 200px;
-    float:left;
 }
 
 .triangle-blurp {
     padding-top: 200px;
     padding-bottom: 200px
-    float: left;
 }
 
 .triangle-blurp > p {
