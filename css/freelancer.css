@@ -5,12 +5,10 @@
  *
  */
 
-@media screen and (max-width: 1018px)
 #about-personal {
     background-image: url("../img/about_personal.png");
 }
 
-@media screen and (max-width: 1018px)
 #about-triangle {
     background-image: url("../img/about_triangle.png");
 }
@@ -19,7 +17,7 @@
     width: 100%;
     height: 600px;
     background-attachment: fixed;
-    background-size: cover;
+    /*background-size: cover;*/
     background-position: center top;
     background-repeat: no-repeat;
 }
